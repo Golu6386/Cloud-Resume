@@ -3,7 +3,7 @@
 This project is a fully functional, serverless web application built on AWS. It serves as my digital resume and features a real-time visitor counter that tracks and displays the total number of visits to this site.
 
 ## 🚀 Live Demo
-[Click here to view my live resume](file:///C:/Project/Cloud%20Resume/frontend/index.html)
+[Click here to view my live resume](https://golu-cloud-resume-2026.s3.ap-south-2.amazonaws.com/Golu_Sharma_Resume_Devops.pdf))
 
 ## 🛠️ Tech Used
 * **Frontend:** Static website hosted on Amazon S3.
